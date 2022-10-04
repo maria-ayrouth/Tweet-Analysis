@@ -30,20 +30,20 @@ We'll be building the following models and comparing their performance:
 * Model 7: Same as model 6 with 10% of training data
 
 
-![download (26)](https://user-images.githubusercontent.com/90212538/193792655-e9c9ccfe-5de4-4555-a7d2-4834f24bf464.png)
+![Screenshot (810)](https://user-images.githubusercontent.com/90212538/193794042-9f6fbeec-8272-4938-a3dc-c99e0045986d.png)
 
 Looks like our pretrained USE TensorFlow Hub models have the best performance.
 
 How about we find some Tweets and use USE TensorFlow Hub model to predict whether or not they're about a diaster or not?Such as the following two Tweets about the 2020 Beirut explosions.
 
 **tweet1**
-Pred: 1.0 (real disaster) Prob: 0.9625465869903564
-Text:
+- Pred: 1.0 (real disaster) Prob: 0.9625465869903564
+-Text:
 Reports that the smoke in Beirut sky contains nitric acid, which is toxic. Please share and refrain from stepping outside unless urgent. #Lebanon
 
 
 **tweet2**
-Pred: 1.0 (real disaster) Prob: 0.9678557515144348
-Text:
+- Pred: 1.0 (real disaster) Prob: 0.9678557515144348
+- Text:
 Beirut declared a “devastated city”, two-week state of emergency officially declared. #Lebanon
 
