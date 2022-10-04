@@ -38,7 +38,7 @@ How about we find some Tweets and use USE TensorFlow Hub model to predict whethe
 
 **tweet1**
 - Pred: 1.0 (real disaster) Prob: 0.9625465869903564
--Text:
+- Text:
 Reports that the smoke in Beirut sky contains nitric acid, which is toxic. Please share and refrain from stepping outside unless urgent. #Lebanon
 
 
